@@ -1,0 +1,3 @@
+Create an Annotations folder with the xml file
+and 
+create a JPEGImages folder with jpg files in this directory
